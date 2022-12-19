@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    std :: cout <<"good 1";
+    std :: cout <<"bad 2";
     return 0;
 }
