@@ -1,6 +1,6 @@
 #include <iostream>
 int main()
 {
-    std :: cout <<"stupid mistake";
+    std :: cout <<"corrected mistake";
     return 0;
 }
